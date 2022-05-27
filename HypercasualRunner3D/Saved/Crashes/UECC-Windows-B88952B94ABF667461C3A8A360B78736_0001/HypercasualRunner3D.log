@@ -1,0 +1,1379 @@
+﻿Log file open, 05/27/22 19:57:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=34132)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: HypercasualRunner3D
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19764885"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.1-19764885+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/HypercasualRunner3D.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="84af732b413a04f99c35eb8039468246"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.783692
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-B88952B94ABF667461C3A8A360B78736
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.16 seconds
+LogConfig: Display: Loading IOS ini files took 0.16 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.16 seconds
+LogConfig: Display: Loading Linux ini files took 0.28 seconds
+LogConfig: Display: Loading Mac ini files took 0.14 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogConfig: Display: Loading TVOS ini files took 0.23 seconds
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogConfig: Display: Loading VulkanPC ini files took 0.16 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.31 seconds
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin Paper2D
+LogConfig: Display: Loading Unix ini files took 0.23 seconds
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogConfig: Display: Loading Windows ini files took 0.17 seconds
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19764885
+LogInit: Engine Version: 5.0.1-19764885+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) (), CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Apr 15 2022 04:06:52
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[WorkingColorSpaceChoice:sRGB]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[RedChromaticityCoordinate:(X=0.640000,Y=0.330000)]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[GreenChromaticityCoordinate:(X=0.300000,Y=0.600000)]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[BlueChromaticityCoordinate:(X=0.150000,Y=0.060000)]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[WhiteChromaticityCoordinate:(X=0.312700,Y=0.329000)]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.05.27-14.57.24:163][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.05.27-14.57.24:163][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.05.27-14.57.24:163][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.05.27-14.57.24:164][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.05.27-14.57.24:167][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.05.27-14.57.24:167][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.05.27-14.57.24:167][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.05.27-14.57.24:167][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.05.27-14.57.24:167][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.05.27-14.57.24:167][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.05.27-14.57.24:167][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.05.27-14.57.24:168][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.05.27-14.57.24:168][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.05.27-14.57.24:168][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.05.27-14.57.24:168][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.05.27-14.57.24:281][  0]LogD3D12RHI: Aftermath initialized
+[2022.05.27-14.57.24:281][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.05.27-14.57.24:585][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1650 (Max supported Feature Level 12_1, shader model 6.5)
+[2022.05.27-14.57.24:585][  0]LogD3D12RHI: Adapter has 3962MB of dedicated video memory, 0MB of dedicated system memory, and 8110MB of shared system memory, 1 output[s]
+[2022.05.27-14.57.24:616][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics 630 (Max supported Feature Level 12_1, shader model 6.4)
+[2022.05.27-14.57.24:616][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8110MB of shared system memory, 1 output[s]
+[2022.05.27-14.57.24:645][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.05.27-14.57.24:645][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8110MB of shared system memory, 0 output[s]
+[2022.05.27-14.57.24:646][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.05.27-14.57.24:647][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.05.27-14.57.24:647][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.05.27-14.57.24:647][  0]LogHAL: Display: Platform has ~ 16 GB [17009004544 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.27-14.57.24:647][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.05.27-14.57.24:647][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.05.27-14.57.24:647][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2022.05.27-14.57.24:647][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2022.05.27-14.57.24:647][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2022.05.27-14.57.24:647][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2022.05.27-14.57.24:647][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2022.05.27-14.57.24:647][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2022.05.27-14.57.24:647][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2022.05.27-14.57.24:647][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2022.05.27-14.57.24:648][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2022.05.27-14.57.24:648][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2022.05.27-14.57.24:648][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.05.27-14.57.24:648][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.27-14.57.24:648][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.05.27-14.57.24:648][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/Config/WindowsEditor/Editor.ini]
+[2022.05.27-14.57.24:648][  0]LogInit: Computer: LAPTOP-OQ1M63MF
+[2022.05.27-14.57.24:648][  0]LogInit: User: vikto
+[2022.05.27-14.57.24:648][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.05.27-14.57.24:648][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.27-14.57.24:648][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.05.27-14.57.24:648][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.05.27-14.57.24:648][  0]LogMemory: Process Physical Memory: 267.98 MB used, 287.59 MB peak
+[2022.05.27-14.57.24:648][  0]LogMemory: Process Virtual Memory: 206.32 MB used, 206.32 MB peak
+[2022.05.27-14.57.24:648][  0]LogMemory: Physical Memory: 9326.77 MB used,  6894.29 MB free, 16221.05 MB total
+[2022.05.27-14.57.24:648][  0]LogMemory: Virtual Memory: 12624.61 MB used,  11020.44 MB free, 23645.05 MB total
+[2022.05.27-14.57.24:648][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.05.27-14.57.24:651][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.27-14.57.24:751][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.05.27-14.57.24:752][  0]LogInit: Using OS detected language (ru-RU).
+[2022.05.27-14.57.24:752][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.05.27-14.57.24:760][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so 'ru' will be used for the language.
+[2022.05.27-14.57.24:761][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.05.27-14.57.24:761][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.05.27-14.57.24:761][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.05.27-14.57.24:761][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.05.27-14.57.24:761][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.05.27-14.57.24:761][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.05.27-14.57.24:762][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.05.27-14.57.24:764][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.27-14.57.24:784][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.05.27-14.57.24:784][  0]LogWindowsTextInputMethodSystem:   - Английский (США) - (Keyboard).
+[2022.05.27-14.57.24:784][  0]LogWindowsTextInputMethodSystem:   - Русский (Россия) - (Keyboard).
+[2022.05.27-14.57.24:784][  0]LogWindowsTextInputMethodSystem:   - Русский (Россия) - Сенсорный ввод — исправление (TSF IME).
+[2022.05.27-14.57.24:784][  0]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2022.05.27-14.57.24:819][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.27-14.57.24:819][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.27-14.57.25:019][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.05.27-14.57.25:026][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.05.27-14.57.25:026][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.05.27-14.57.25:123][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.05.27-14.57.25:123][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.05.27-14.57.25:123][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.05.27-14.57.25:123][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.05.27-14.57.25:123][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.05.27-14.57.25:123][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.05.27-14.57.25:123][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.05.27-14.57.25:123][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.05.27-14.57.25:123][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.05.27-14.57.25:123][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.05.27-14.57.25:123][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is not supported
+[2022.05.27-14.57.25:197][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.05.27-14.57.25:207][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.05.27-14.57.25:223][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.05.27-14.57.25:460][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.05.27-14.57.25:460][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.05.27-14.57.25:545][  0]LogD3D12RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.27-14.57.25:545][  0]LogWindows: EnumDisplayDevices:
+[2022.05.27-14.57.25:545][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2022.05.27-14.57.25:545][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.05.27-14.57.25:546][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.05.27-14.57.25:546][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:1 D:1)
+[2022.05.27-14.57.25:546][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.05.27-14.57.25:546][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2022.05.27-14.57.25:546][  0]LogD3D12RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2022.05.27-14.57.25:546][  0]LogD3D12RHI:      Driver Date: 7-5-2020
+[2022.05.27-14.57.25:546][  0]LogRHI: Texture pool is 2121 MB (70% of 3030 MB)
+[2022.05.27-14.57.25:546][  0]LogD3D12RHI: Async texture creation enabled
+[2022.05.27-14.57.25:546][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.05.27-14.57.25:559][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.05.27-14.57.27:888][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues.
+Please install either the latest or the recommended driver version.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce GTX 1650
+Installed: 451.67
+Recommended: 511.79
+[2022.05.27-14.57.27:929][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/HypercasualRunner3D.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/Intermediate/TurnkeyReport_0.log" -log="D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/Intermediate/TurnkeyLog_0.log" -project="D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/HypercasualRunner3D.uproject"  -platform=all'
+[2022.05.27-14.57.27:929][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Unreal/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/HypercasualRunner3D.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/Intermediate/TurnkeyReport_0.log" -log="D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/Intermediate/TurnkeyLog_0.log" -project="D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/HypercasualRunner3D.uproject"  -platform=all" ]
+[2022.05.27-14.57.28:246][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.05.27-14.57.28:316][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.05.27-14.57.28:316][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.05.27-14.57.28:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.27-14.57.28:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.27-14.57.28:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.27-14.57.28:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.27-14.57.28:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.27-14.57.28:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.27-14.57.28:345][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.27-14.57.28:345][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.27-14.57.28:345][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.27-14.57.28:345][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.27-14.57.28:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.05.27-14.57.28:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.05.27-14.57.28:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.27-14.57.28:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.27-14.57.28:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.27-14.57.28:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.05.27-14.57.28:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.27-14.57.28:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.27-14.57.28:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.05.27-14.57.28:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.05.27-14.57.28:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.05.27-14.57.28:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.27-14.57.28:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.27-14.57.28:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.27-14.57.28:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.05.27-14.57.28:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.27-14.57.28:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.27-14.57.28:474][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.05.27-14.57.28:557][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.27-14.57.28:570][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.05.27-14.57.28:570][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.05.27-14.57.28:570][  0]LogTargetPlatformManager:   ADPCM
+[2022.05.27-14.57.28:570][  0]LogTargetPlatformManager:   PCM
+[2022.05.27-14.57.28:585][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.05.27-14.57.28:585][  0]LogTargetPlatformManager:   BINKA
+[2022.05.27-14.57.28:585][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.05.27-14.57.28:585][  0]LogTargetPlatformManager:   OGG
+[2022.05.27-14.57.28:585][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.05.27-14.57.28:585][  0]LogTargetPlatformManager:   OPUS
+[2022.05.27-14.57.28:823][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.05.27-14.57.28:868][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.05.27-14.57.28:868][  0]LogTargetPlatformManager:   SF_METAL
+[2022.05.27-14.57.28:869][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.05.27-14.57.28:869][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.05.27-14.57.28:869][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.05.27-14.57.28:869][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.05.27-14.57.28:869][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.05.27-14.57.28:869][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.05.27-14.57.28:869][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.05.27-14.57.28:869][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.05.27-14.57.28:869][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.05.27-14.57.28:869][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.05.27-14.57.28:869][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.05.27-14.57.28:869][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.05.27-14.57.28:869][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.05.27-14.57.28:869][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.05.27-14.57.28:895][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.05.27-14.57.28:895][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.05.27-14.57.28:895][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.05.27-14.57.28:895][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.05.27-14.57.28:895][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.05.27-14.57.28:895][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.05.27-14.57.28:895][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.05.27-14.57.28:895][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.27-14.57.28:895][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.05.27-14.57.28:899][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.05.27-14.57.28:899][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.05.27-14.57.28:900][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.05.27-14.57.28:903][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.27-14.57.28:903][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.05.27-14.57.28:903][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.27-14.57.28:903][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.05.27-14.57.28:920][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1092 MiB)
+[2022.05.27-14.57.28:920][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.27-14.57.28:920][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.05.27-14.57.28:932][  0]LogDerivedDataCache: Speed tests for C:/Users/vikto/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.05.27-14.57.28:932][  0]LogDerivedDataCache: Display: Performance to C:/Users/vikto/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.09ms. RandomReadSpeed=711.15MBs, RandomWriteSpeed=102.41MBs. Assigned SpeedClass 'Local'
+[2022.05.27-14.57.28:933][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vikto/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.27-14.57.28:933][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.27-14.57.28:933][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.05.27-14.57.28:941][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.05.27-14.57.28:941][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.05.27-14.57.28:942][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Intermediate/Shaders/WorkingDirectory/1928/).
+[2022.05.27-14.57.28:942][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vikto/AppData/Local/Temp/UnrealShaderWorkingDir/1B5B0C36412FC3E6D812178E3B87E797/'.
+[2022.05.27-14.57.28:942][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.05.27-14.57.28:942][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.05.27-14.57.30:365][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.05.27-14.57.30:365][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.27-14.57.30:366][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.27-14.57.30:431][  0]LogAssetRegistry: FAssetRegistry took 0.0178 seconds to start up
+[2022.05.27-14.57.30:437][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.05.27-14.57.30:616][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.05.27-14.57.30:616][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.05.27-14.57.31:209][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.05.27-14.57.31:209][  0]LogDeviceProfileManager: Active device profile: [000005E62C49F500][000005E610F25000 50] WindowsEditor
+[2022.05.27-14.57.31:209][  0]LogDeviceProfileManager: Profiles: [000005E62C49EFC0][000005E622B0A000 50] Windows, [000005E62C49F500][000005E610F25000 50] WindowsEditor, [000005E62C49D900][000005E622B40000 50] WindowsServer, [000005E62C49F6C0][000005E62CA40000 50] WindowsClient, [000005E62C49C080][000005E62CA45000 50] IOS, [000005E62C49CE80][000005E62CA47800 50] iPadAir2, [000005E62C49FC00][000005E62CA4C800 50] IPadPro, [000005E62C49EC40][000005E62CA4A000 50] iPadAir3, [000005E62C49CB00][000005E622B42800 50] iPadAir4, [000005E62C49E1C0][000005E62CA50000 50] iPadMini4, [000005E62C49C780][000005E62CA55000 50] iPadMini5, [000005E62C49D3C0][000005E62CA57800 50] iPadMini6, [000005E62CA72D80][000005E62CA42800 50] iPhone6S, [000005E62CA73100][000005E62CA5C800 50] iPhone7, [000005E62CA73480][000005E62CA5A000 50] iPodTouch7, [000005E62CA71500][000005E62CA80000 50] iPhone6SPlus, [000005E62CA73D40][000005E62CA85000 50] iPhone7Plus, [000005E62CA71A40][000005E62CA87800 50] iPhoneSE, [000005E62CA71180][000005E62CA8A000 50] iPhone8, [000005E62CA70540][000005E62CA8C800 50] iPhone8Plus, [000005E62CA73800][000005E62CA52800 50] iPhoneX, [000005E62CA71C00][000005E62CA90000 50] iPhoneXS, [000005E62CA72680][000005E62CA95000 50] iPhoneXSMax, [000005E62CA724C0][000005E62CA97800 50] iPhoneXR, [000005E62CA72BC0][000005E62CA9A000 50] iPhone11, [000005E62CA71F80][000005E62CA9C800 50] iPhone11Pro, [000005E62CA739C0][000005E62CA82800 50] iPhone11ProMax, [000005E62CA732C0][000005E62CAA0000 50] iPhoneSE2, [000005E62CA72A00][000005E62CAA5000 50] iPhone12Mini, [000005E62CA70380][000005E62CAA7800 50] iPhone12, [000005E62CA70700][000005E62CAAA000 50] iPhone12Pro, [000005E62CA72840][000005E62CAAC800 50] iPhone12ProMax, [000005E62CA71DC0][000005E62CA92800 50] iPhone13Mini, [000005E62CA716C0][000005E62CAB0000 50] iPhone13, [000005E62CA70000][000005E62CAB5000 50] iPhone13Pro, [000005E62CA71880][000005E62CAB7800 50] iPhone13ProMax, [000005E62CA73640][000005E62CABA000 50] iPadPro105, [000005E62CA701C0][000005E62CABC800 50] iPadPro129, [000005E62CA72140][000005E62CAA2800 50] iPadPro97, [000005E62CA73F00][000005E62CAC0000 50] iPadPro2_129, [000005E62CA74980][000005E62CAC5000 50] iPad5, [000005E62CA708C0][000005E62CAC7800 50] iPad6, [000005E62CA73B80][000005E62CACA000 50] iPad7, [000005E62CA70E00][000005E62CACC800 50] iPad8, [000005E62CA747C0][000005E62CAB2800 50] iPad9, [000005E62CA72F40][000005E62CAD0000 50] iPadPro11, [000005E62CA70FC0][000005E62CAD5000 50] iPadPro2_11, [000005E62CA70A80][000005E62CAD7800 50] iPadPro3_11, [000005E62CA74EC0][000005E62CADA000 50] iPadPro3_129, [000005E62CA75940][000005E62CADC800 50] iPadPro4_129, [000005E62CA74B40][000005E62CAC2800 50] iPadPro5_129, [000005E62CA74600][000005E62CAE0000 50] AppleTV, [000005E62CA740C0][000005E62CAE5000 50] AppleTV4K, [000005E62CA75780][000005E62CAE7800 50] TVOS, [000005E62CA78C00][000005E62CAEC800 50] Mac, [000005E62CA78F80][000005E62CAEA000 50] MacEditor, [000005E62CA78880][000005E62CAD2800 50] MacClient, [000005E62CA755C0][000005E62CAF0000 50] MacServer, [000005E62CA79140][000005E62CAF7800 50] Linux, [000005E62CA75240][000005E62CAF5000 50] LinuxEditor, [000005E62CA77380][000005E62CAFA000 50] LinuxArm64Editor, [000005E62CA76740][000005E62CAFC800 50] LinuxArm64, [000005E62CA79BC0][000005E62CAE2800 50] LinuxClient, [000005E62CA786C0][000005E62CB00000 50] LinuxArm64Client, [000005E62CA78500][000005E62CB05000 50] LinuxServer, [000005E62CA79300][000005E62CB07800 50] LinuxArm64Server, [000005E62CA77540][000005E62CB0A000 50] Android, [000005E62CA74D00][000005E62CB0C800 50] Android_Preview_OpenGL, [000005E62CA778C0][000005E62CAF2800 50] Android_Preview_Vulkan, [000005E62CA76580][000005E62CB10000 50] Android_Low, [000005E62CA76E40][000005E62CB15000 50] Android_Mid, [000005E62CA76AC0][000005E62CB17800 50] Android_High, [000005E62CA74440][000005E62CB1A000 50] Android_Default, [000005E62CA771C0][000005E62CB1C800 50] Android_Adreno4xx, [000005E62CA76C80][000005E62CB02800 50] Android_Adreno5xx_Low, [000005E62CA79680][000005E62CB20000 50] Android_Adreno5xx, [000005E62CA79A00][000005E62CB25000 50] Android_Adreno6xx, [000005E62CA78340][000005E62CB27800 50] Android_Adreno6xx_Vulkan, [000005E62CA75400][000005E62CB2A000 50] Android_Adreno7xx, [000005E62CA70C40][000005E62CB2C800 50] Android_Adreno7xx_Vulkan, [000005E62CA76900][000005E62CB12800 50] Android_Mali_T6xx, [000005E62CA76040][000005E62CB30000 50] Android_Mali_T7xx, [000005E62CA77A80][000005E62CB35000 50] Android_Mali_T8xx, [000005E62CA74280][000005E62CB37800 50] Android_Mali_G71, [000005E62CA77FC0][000005E62CB3A000 50] Android_Mali_G72, [000005E62CA77700][000005E62CB3C800 50] Android_Mali_G72_Vulkan, [000005E62CA75B00][000005E62CB22800 50] Android_Mali_G76, [000005E62CA71340][000005E62CB40000 50] Android_Mali_G76_Vulkan, [000005E62CA77000][000005E62CB45000 50] Android_Mali_G77, [000005E62CA72300][000005E62CB47800 50] Android_Mali_G77_Vulkan, [000005E62CA763C0][000005E62CB4A000 50] Android_Mali_G78, [000005E62CA78180][000005E62CB4C800 50] Android_Mali_G78_Vulkan, [000005E62CA794C0][000005E62CB32800 50] Android_Mali_G710, [000005E62CA79D80][000005E62CB50000 50] Android_Mali_G710_Vulkan, [000005E62CA7A800][000005E62CB55000 50] Android_Xclipse_920, [000005E62CA75080][000005E62CB57800 50] Android_Xclipse_920_Vulkan, [000005E62CA76200][000005E62CB5A000 50] Android_Vulkan_SM5, [000005E62CA78A40][000005E62CB5C800 50] Android_PowerVR_G6xxx, [000005E62CA7A640][000005E62CB42800 50] Android_PowerVR_GT7xxx, [000005E62CA79840][000005E62CB60000 50] Android_PowerVR_GE8xxx, [000005E62CA78DC0][000005E62CB65000 50] Android_PowerVR_GM9xxx, [000005E62CA7AD40][000005E62CB67800 50] Android_PowerVR_GM9xxx_Vulkan, [000005E62CA7B600][000005E62CB6A000 50] Android_TegraK1, [000005E62CA7A480][000005E62CB6C800 50] Android_Unknown_Vulkan, [000005E62CA7A9C0][000005E62CB52800 50] Oculus_Quest, [000005E62CA7B0C0][000005E62CB70000 50] Oculus_Quest2, [000005E62CA7B7C0][000005E62CB75000 50] HoloLens, 
+[2022.05.27-14.57.31:209][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.05.27-14.57.31:211][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_ValidHostPrerequisites")
+[2022.05.27-14.57.31:212][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.05.27-14.57.31:212][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.05.27-14.57.31:212][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.05.27-14.57.31:212][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.05.27-14.57.31:252][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.05.27-14.57.31:629][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.27-14.57.31:629][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.27-14.57.31:629][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.27-14.57.31:629][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.27-14.57.31:629][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.27-14.57.31:678][  0]LogNetVersion: HypercasualRunner3D 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2032361522)
+[2022.05.27-14.57.31:805][  0]LogSlate: Border
+[2022.05.27-14.57.31:805][  0]LogSlate: BreadcrumbButton
+[2022.05.27-14.57.31:805][  0]LogSlate: Default
+[2022.05.27-14.57.31:805][  0]LogSlate: Icons.Save
+[2022.05.27-14.57.31:805][  0]LogSlate: Icons.Toolbar.Settings
+[2022.05.27-14.57.31:805][  0]LogSlate: ListView
+[2022.05.27-14.57.31:805][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.05.27-14.57.31:805][  0]LogSlate: SoftwareCursor_Grab
+[2022.05.27-14.57.31:805][  0]LogSlate: TableView.DarkRow
+[2022.05.27-14.57.31:805][  0]LogSlate: TableView.Row
+[2022.05.27-14.57.31:805][  0]LogSlate: TreeView
+[2022.05.27-14.57.32:013][  0]SourceControl: Source control is disabled
+[2022.05.27-14.57.32:040][  0]SourceControl: Source control is disabled
+[2022.05.27-14.57.32:041][  0]SourceControl: Source control is disabled
+[2022.05.27-14.57.32:156][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.05.27-14.57.32:156][  0]LogUObjectAllocator: 5584248 out of 0 bytes used by permanent object pool.
+[2022.05.27-14.57.32:156][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.27-14.57.33:589][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 44518747400F0DB0240D95A4659A3615 | Instance: 691C0174425F09C26E3A7F908AC3BB23 (LAPTOP-OQ1M63MF-1928).
+[2022.05.27-14.57.33:741][  0]LogPython: Using Python 3.9.7
+[2022.05.27-14.57.34:751][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.27-14.57.34:787][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.27-14.57.35:180][  0]SourceControl: Source control is disabled
+[2022.05.27-14.57.35:276][  0]SourceControl: Source control is disabled
+[2022.05.27-14.57.35:346][  0]SourceControl: Source control is disabled
+[2022.05.27-14.57.36:258][  0]LogUProjectInfo: Found projects:
+[2022.05.27-14.57.36:703][  0]LogOpenImageDenoise: OIDN starting up
+[2022.05.27-14.57.36:887][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.27-14.57.37:000][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.27-14.57.37:000][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.27-14.57.37:298][  0]LogCollectionManager: Loaded 0 collections in 0.001667 seconds
+[2022.05.27-14.57.37:638][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/Collections/' took 0.00s
+[2022.05.27-14.57.37:638][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/Content/Developers/vikto/Collections/' took 0.00s
+[2022.05.27-14.57.37:638][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/Content/Collections/' took 0.00s
+[2022.05.27-14.57.38:032][  0]LogEngine: Initializing Engine...
+[2022.05.27-14.57.38:047][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.05.27-14.57.38:051][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.27-14.57.38:328][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.27-14.57.38:329][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.27-14.57.38:346][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.27-14.57.38:384][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.27-14.57.38:385][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.27-14.57.38:421][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.05.27-14.57.38:422][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.05.27-14.57.38:422][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.05.27-14.57.38:422][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.27-14.57.38:422][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.27-14.57.38:423][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.27-14.57.38:423][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.27-14.57.38:423][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.27-14.57.38:423][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.27-14.57.38:423][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.27-14.57.38:423][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.27-14.57.38:423][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.27-14.57.38:423][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.27-14.57.38:423][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.27-14.57.38:423][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.27-14.57.38:423][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.27-14.57.38:443][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.27-14.57.38:754][  0]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2022.05.27-14.57.38:754][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.27-14.57.38:757][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.27-14.57.38:757][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.27-14.57.38:758][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.05.27-14.57.38:758][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.05.27-14.57.38:759][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.05.27-14.57.38:759][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.05.27-14.57.38:759][  0]LogInit: FAudioDevice initialized.
+[2022.05.27-14.57.38:759][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.27-14.57.38:759][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.27-14.57.38:760][  0]LogInit: Texture streaming: Enabled
+[2022.05.27-14.57.38:817][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.1-19764885+++UE5+Release-5.0
+[2022.05.27-14.57.38:841][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.27-14.57.38:873][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.05.27-14.57.38:886][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.05.27-14.57.38:886][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.05.27-14.57.43:423][  0]LogLiveCoding: Display: First instance in process group "UE_HypercasualRunner3D_0xc349ded4", spawning console
+[2022.05.27-14.57.43:423][  0]LogLiveCoding: Display: Waiting for server
+[2022.05.27-14.57.43:423][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.05.27-14.57.43:574][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Intermediate/ShaderAutogen/GLSL_ES3_1_ANDROID/AutogenShaderHeaders.ush
+[2022.05.27-14.57.43:576][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.05.27-14.57.44:345][  0]LogDeviceProfileManager: SetPreviewDeviceProfile preview to Android_Preview_OpenGL
+[2022.05.27-14.57.44:345][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Android]
+[2022.05.27-14.57.44:345][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.05.27-14.57.44:346][  0]LogInit: Transaction tracking system initialized
+[2022.05.27-14.57.44:448][  0]BlueprintLog: New page: Editor Load
+[2022.05.27-14.57.44:761][  0]LocalizationService: Localization service is disabled
+[2022.05.27-14.57.44:839][  0]TimingProfiler: Initialize
+[2022.05.27-14.57.44:839][  0]TimingProfiler: OnSessionChanged
+[2022.05.27-14.57.44:840][  0]LoadingProfiler: Initialize
+[2022.05.27-14.57.44:840][  0]LoadingProfiler: OnSessionChanged
+[2022.05.27-14.57.44:840][  0]NetworkingProfiler: Initialize
+[2022.05.27-14.57.44:840][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.27-14.57.44:840][  0]MemoryProfiler: Initialize
+[2022.05.27-14.57.44:840][  0]MemoryProfiler: OnSessionChanged
+[2022.05.27-14.57.45:911][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/Content/' took 0.01s
+[2022.05.27-14.57.45:911][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.05.27-14.57.46:024][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.27-14.57.46:026][  0]SourceControl: Source control is disabled
+[2022.05.27-14.57.46:026][  0]LogUnrealEdMisc: Loading editor; pre map load, took 25.746
+[2022.05.27-14.57.46:026][  0]Cmd: MAP LOAD FILE="../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/00_Maps/Main_Gameplay.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=1
+[2022.05.27-14.57.46:031][  0]LightingResults: New page: Lighting Build
+[2022.05.27-14.57.46:038][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.27-14.57.46:039][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.27-14.57.46:039][  0]MapCheck: New page: Map Check
+[2022.05.27-14.57.46:039][  0]LightingResults: New page: Lighting Build
+[2022.05.27-14.57.46:046][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.27-14.57.46:049][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.27-14.57.46:091][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Gameplay'.
+[2022.05.27-14.57.46:100][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.27-14.57.46:100][  0]LogAIModule: Creating AISystem for world Main_Gameplay
+[2022.05.27-14.57.46:101][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.05.27-14.57.46:102][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.05.27-14.57.46:155][  0]LogWorldPartition: Display: WorldPartition initialize took 52 ms
+[2022.05.27-14.57.46:156][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.27-14.57.46:164][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.05.27-14.57.46:164][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.27-14.57.46:165][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,397ms to complete.
+[2022.05.27-14.57.46:165][  0]LogFileHelpers: Loading map 'Main_Gameplay' took 0.138
+[2022.05.27-14.57.46:185][  0]LogUnrealEdMisc: Total Editor Startup Time, took 25.904
+[2022.05.27-14.57.46:185][  0]LogShaderCompilers: Display: ================================================
+[2022.05.27-14.57.46:185][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.27-14.57.46:185][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.27-14.57.46:185][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.27-14.57.46:185][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.05.27-14.57.46:185][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.27-14.57.46:185][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.05.27-14.57.46:185][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.05.27-14.57.46:185][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.05.27-14.57.46:185][  0]LogShaderCompilers: Display: ================================================
+[2022.05.27-14.57.46:367][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.27-14.57.46:376][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.27-14.57.46:381][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.27-14.57.46:386][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.27-14.57.46:506][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.05.27-14.57.46:506][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.27-14.57.46:509][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.05.27-14.57.46:509][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.27-14.57.46:513][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.05.27-14.57.46:513][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.27-14.57.46:516][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.05.27-14.57.46:516][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.27-14.57.46:522][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.05.27-14.57.46:522][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.27-14.57.46:526][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.05.27-14.57.46:526][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.27-14.57.46:529][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.05.27-14.57.46:529][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.27-14.57.46:533][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.05.27-14.57.46:533][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.27-14.57.46:536][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.05.27-14.57.46:536][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.27-14.57.46:540][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.05.27-14.57.46:540][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.27-14.57.46:957][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.05.27-14.57.47:137][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.05.27-14.57.47:742][  0]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.27-14.57.47:748][  0]LogSlate: Took 0.001618 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.27-14.57.47:751][  0]LogSlate: Took 0.001352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.27-14.57.47:879][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.27-14.57.48:079][  0]LogStall: Startup...
+[2022.05.27-14.57.48:082][  0]LogStall: Startup complete.
+[2022.05.27-14.57.48:106][  0]LogLoad: (Engine Initialization) Total time: 27.83 seconds
+[2022.05.27-14.57.48:107][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.27-14.57.48:359][  0]LogAssetRegistry: Asset discovery search completed in 17.9302 seconds
+[2022.05.27-14.57.48:369][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.05.27-14.57.48:373][  0]LogContentStreaming: Texture pool size now 800 MB
+[2022.05.27-14.57.49:150][ 54]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.27-14.57.51:388][259]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Player/BP_Player.BP_Player) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2022.05.27-14.57.51:405][259]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_Player.BP_Player
+[2022.05.27-14.57.51:407][259]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.27-14.57.57:104][259]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.05.27-14.57.57:104][259]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049950s
+[2022.05.27-14.57.57:238][259]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2022.05.27-14.57.57:368][259]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.003048s (0.918669s overbudget)
+[2022.05.27-14.57.57:415][259]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.27-14.58.38:314][111]LogSlate: Took 0.001518 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.27-14.58.38:323][111]LogSlate: Took 0.001705 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.27-14.59.29:550][ 24]LogDerivedDataCache: C:/Users/vikto/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.613 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.27-15.00.28:550][ 10]BlueprintLog: New page: Compile BP_Player
+[2022.05.27-15.00.28:601][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.05.27-15.00.36:677][952]LogEditorTransaction: Undo Modify Component(s)
+[2022.05.27-15.01.09:083][655]LogEditorTransaction: Undo Modify Component(s)
+[2022.05.27-15.01.28:621][819]LogEditorTransaction: Undo Modify Component(s)
+[2022.05.27-15.01.30:315][955]LogEditorTransaction: Undo Reset Rotation
+[2022.05.27-15.01.30:705][998]LogEditorTransaction: Undo Remove Components
+[2022.05.27-15.01.31:146][ 46]LogEditorTransaction: Undo Add Component
+[2022.05.27-15.01.43:224][152]LogEditorTransaction: Undo Set Vector Property
+[2022.05.27-15.01.44:093][197]LogEditorTransaction: Undo Set Vector Property
+[2022.05.27-15.01.48:874][712]BlueprintLog: New page: Compile BP_Player
+[2022.05.27-15.01.49:237][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.05.27-15.02.22:498][373]LogEditorTransaction: Undo Modify Component(s)
+[2022.05.27-15.02.29:308][127]BlueprintLog: New page: Compile BP_Player
+[2022.05.27-15.02.29:592][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.05.27-15.02.33:218][535]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Player/BP_Player.BP_Player_C
+[2022.05.27-15.02.33:219][535]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Player/BP_Player.BP_Player_C
+[2022.05.27-15.02.33:223][535]LogActorFactory: Actor Factory spawned Blueprint /Game/Player/BP_Player.BP_Player as actor: BP_Player_C /Game/00_Maps/Main_Gameplay.Main_Gameplay:PersistentLevel.BP_Player_C_0
+[2022.05.27-15.02.33:225][535]LogActorFactory: Actor Factory spawned Blueprint /Game/Player/BP_Player.BP_Player as actor: BP_Player_C /Game/00_Maps/Main_Gameplay.Main_Gameplay:PersistentLevel.BP_Player_C_0
+[2022.05.27-15.02.34:776][713]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Player/BP_Player.BP_Player_C
+[2022.05.27-15.02.34:776][713]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Player/BP_Player.BP_Player_C
+[2022.05.27-15.02.34:780][713]LogActorFactory: Actor Factory spawned Blueprint /Game/Player/BP_Player.BP_Player as actor: BP_Player_C /Game/00_Maps/Main_Gameplay.Main_Gameplay:PersistentLevel.BP_Player_C_UAID_08979892C676EC1301_1201038759
+[2022.05.27-15.02.34:782][713]LogActorFactory: Actor Factory spawned Blueprint /Game/Player/BP_Player.BP_Player as actor: BP_Player_C /Game/00_Maps/Main_Gameplay.Main_Gameplay:PersistentLevel.BP_Player_C_UAID_08979892C676EC1301_1201038759
+[2022.05.27-15.03.18:176][854]Cmd: TRANSACTION UNDO
+[2022.05.27-15.03.18:176][854]LogEditorTransaction: Undo Set Location
+[2022.05.27-15.04.09:569][874]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.27-15.04.09:604][874]LogWorldPartition: Display: GenerateStreaming started...
+[2022.05.27-15.04.09:604][874]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.05.27-15.04.09:604][874]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.05.27-15.04.09:604][874]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.05.27-15.04.09:604][874]LogWorldPartition: Display: GetPartitionedActors took 47 us
+[2022.05.27-15.04.09:622][874]LogMaterial: Display: Missing cached shadermap for M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0 in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: F093721C67CFA74438056B70FE6A426C1B848D01), compiling. 
+[2022.05.27-15.04.10:175][874]LogWorldPartition: Display: GenerateStreaming took 572 ms
+[2022.05.27-15.04.10:179][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.27-15.04.10:218][874]PIE: New page: PIE session: Main_Gameplay (28 мая 2022 г., 01:04:10)
+[2022.05.27-15.04.10:224][874]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.05.27-15.04.10:224][874]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.05.27-15.04.10:235][874]LogPlayLevel: Creating play world package: /Game/00_Maps/UEDPIE_0_Main_Gameplay
+[2022.05.27-15.04.10:254][874]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.05.27-15.04.10:254][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019479s)
+[2022.05.27-15.04.10:254][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/00_Maps/Main_Gameplay.Main_Gameplay to /Game/00_Maps/UEDPIE_0_Main_Gameplay.Main_Gameplay (0.019682s)
+[2022.05.27-15.04.10:255][874]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.27-15.04.10:255][874]LogAIModule: Creating AISystem for world Main_Gameplay
+[2022.05.27-15.04.10:257][874]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.05.27-15.04.10:257][874]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.05.27-15.04.10:260][874]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2022.05.27-15.04.10:261][874]LogPlayLevel: PIE: World Init took: (0.006082s)
+[2022.05.27-15.04.10:317][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.05.27-15.04.10:320][874]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.05.27-15.04.10:320][874]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.27-15.04.10:320][874]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.27-15.04.10:320][874]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.27-15.04.10:320][874]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.27-15.04.10:321][874]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.27-15.04.10:321][874]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.27-15.04.10:321][874]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.27-15.04.10:321][874]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.27-15.04.10:322][874]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.27-15.04.10:322][874]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.27-15.04.10:322][874]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.27-15.04.10:328][874]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.27-15.04.10:378][874]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2022.05.27-15.04.10:378][874]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.27-15.04.10:378][874]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.27-15.04.10:378][874]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.27-15.04.10:379][874]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.05.27-15.04.10:380][874]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.05.27-15.04.10:382][874]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.05.27-15.04.10:382][874]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.05.27-15.04.10:382][874]LogInit: FAudioDevice initialized.
+[2022.05.27-15.04.10:382][874]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main_Gameplay'.
+[2022.05.27-15.04.10:409][874]LogLoad: Game class is 'GameModeBase'
+[2022.05.27-15.04.10:410][874]LogWorld: Bringing World /Game/00_Maps/UEDPIE_0_Main_Gameplay.Main_Gameplay up for play (max tick rate 0) at 2022.05.27-20.04.10
+[2022.05.27-15.04.10:418][874]LogWorld: Bringing up level for play took: 0.008474
+[2022.05.27-15.04.10:421][874]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.05.27-15.04.10:471][874]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-68.526 Y=-243.214 Z=407.916
+[2022.05.27-15.04.10:488][874]PIE: Server logged in
+[2022.05.27-15.04.10:489][874]PIE: Play in editor total start time 0,89 seconds.
+[2022.05.27-15.04.10:579][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/E/77/KZF05TV9RBQABGODMAOSYN.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.04.10:579][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/6/VG/C4NM9MYZZ22M8X5ZA0MYHZ.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.04.10:579][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/6/BB/V0MD9EFI367MOFCHAHBH4J.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.04.10:579][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/6/BB/V0MD9EFI367MOFCHAHBH4J.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.05.27-15.04.10:579][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/1/W4/U0WWKKIWWO28WDFV8QBTPV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.05.27-15.04.10:579][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/2/KD/TE7EVI0T0PEOIF8SUXF468.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.04.10:579][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/2/KD/TE7EVI0T0PEOIF8SUXF468.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.05.27-15.04.10:579][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/7/10/YXCVLIGNSLM6PDDRY8W2UE.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.05.27-15.04.10:579][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/7/10/YXCVLIGNSLM6PDDRY8W2UE.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.05.27-15.04.10:579][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/7/10/YXCVLIGNSLM6PDDRY8W2UE.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.05.27-15.04.10:579][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/7/10/YXCVLIGNSLM6PDDRY8W2UE.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.05.27-15.04.10:579][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/7/10/YXCVLIGNSLM6PDDRY8W2UE.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.05.27-15.04.10:579][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/7/10/YXCVLIGNSLM6PDDRY8W2UE.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.05.27-15.04.10:579][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/8/4N/VY15M640XDS0QDJUKBC5HM.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.04.10:579][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/0/LS/BH9LI1T6OD7TV6SJLMW6GZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.05.27-15.04.10:579][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/0/OI/GUFBR8XZT3774V0W4JJOTK.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.04.10:579][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/0/OI/GUFBR8XZT3774V0W4JJOTK.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.05.27-15.04.10:579][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/3/BH/OKR2YR84IN0S8F7SI5SWFH.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.05.27-15.04.10:579][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/3/BH/OKR2YR84IN0S8F7SI5SWFH.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/3/BH/OKR2YR84IN0S8F7SI5SWFH.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/3/BH/OKR2YR84IN0S8F7SI5SWFH.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/3/BH/OKR2YR84IN0S8F7SI5SWFH.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/3/CL/W31GM7H4M7XV8E9I236GEX.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/3/CL/W31GM7H4M7XV8E9I236GEX.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/B/FU/6OKMX9YDXH17BK8U2OH8Z3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/B/SJ/0WNYTASWK0FWN3RPNMUUZA.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/C/SO/A61BKP44Q9BU114JYRU6UC.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/C/SO/A61BKP44Q9BU114JYRU6UC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/C/QJ/9UJN4YSO4XDP0CXVD9GTEP.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/C/QJ/9UJN4YSO4XDP0CXVD9GTEP.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/C/QJ/9UJN4YSO4XDP0CXVD9GTEP.StaticMesh_HLOD0_Instancing_12 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/C/QJ/9UJN4YSO4XDP0CXVD9GTEP.StaticMesh_HLOD0_Instancing_13 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/C/QJ/9UJN4YSO4XDP0CXVD9GTEP.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/C/QJ/9UJN4YSO4XDP0CXVD9GTEP.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/C/QJ/9UJN4YSO4XDP0CXVD9GTEP.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/4/RC/LEW18R0H65YD78FYVZCJLH.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/4/RC/LEW18R0H65YD78FYVZCJLH.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/4/RC/LEW18R0H65YD78FYVZCJLH.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/4/RC/LEW18R0H65YD78FYVZCJLH.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/4/RC/LEW18R0H65YD78FYVZCJLH.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/4/RC/LEW18R0H65YD78FYVZCJLH.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/4/99/SFUCFC3ADNLO34F2SCX58N.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/A/HS/HCA515BYBCRTUP0UMGI1LM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/A/8J/83X5NQKK9MCQ1NAY0QUIMW.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/A/8J/83X5NQKK9MCQ1NAY0QUIMW.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/9/NE/KSSO4TLUHNUIPB4RPKVQP1.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/9/7Q/SCQAIU4V5Q8JTPGI0T4VMZ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/9/7Q/SCQAIU4V5Q8JTPGI0T4VMZ.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2022.05.27-15.04.10:580][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/9/7Q/SCQAIU4V5Q8JTPGI0T4VMZ.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.05.27-15.04.13:348][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.27-15.04.13:348][ 64]LogWorld: BeginTearingDown for /Game/00_Maps/UEDPIE_0_Main_Gameplay
+[2022.05.27-15.04.13:349][ 64]LogWorld: UWorld::CleanupWorld for Main_Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.05.27-15.04.13:350][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.27-15.04.13:368][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.27-15.04.13:380][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.27-15.04.19:573][ 64]LogMeshUtilities: Finished distance field build in 8.9s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 45% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_2
+[2022.05.27-15.04.19:573][ 64]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.27-15.04.19:579][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.05.27-15.04.19:581][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.05.27-15.04.19:589][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.27-15.04.19:630][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.05.27-15.04.19:759][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.05.27-15.04.19:797][ 66]LogTurnkeySupport: Display: Adding device menu item for LAPTOP-OQ1M63MF
+[2022.05.27-15.04.19:798][ 66]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/HypercasualRunner3D.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/Intermediate/TurnkeyReport_1.log" -log="D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/Intermediate/TurnkeyLog_1.log" -project="D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/HypercasualRunner3D.uproject"  -Device=Win64@LAPTOP-OQ1M63MF'
+[2022.05.27-15.04.19:798][ 66]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Unreal/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/HypercasualRunner3D.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/Intermediate/TurnkeyReport_1.log" -log="D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/Intermediate/TurnkeyLog_1.log" -project="D:/Unreal/Projects/HypercasualRunner3D/HypercasualRunner3D/HypercasualRunner3D.uproject"  -Device=Win64@LAPTOP-OQ1M63MF" -nocompile ]
+[2022.05.27-15.04.21:285][155]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.016744 seconds
+[2022.05.27-15.04.21:367][155]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/00_Maps/Main_Gameplay/5/FI/GJ7RE03W55C38ZKMHYUT8A
+[2022.05.27-15.04.21:367][155]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/GJ7RE03W55C38ZKMHYUT8A9407153C4216D886C01450ACDFB4EB20.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/__ExternalActors__/00_Maps/Main_Gameplay/5/FI/GJ7RE03W55C38ZKMHYUT8A.uasset'
+[2022.05.27-15.04.21:419][155]AssetCheck: New page: Asset Save: BP_Player_C_UAID_08979892C676EC1301_1201038759
+[2022.05.27-15.04.21:419][155]LogContentValidation: Display: Validating BP_Player_C /Game/00_Maps/Main_Gameplay.Main_Gameplay:PersistentLevel.BP_Player_C_UAID_08979892C676EC1301_1201038759
+[2022.05.27-15.04.21:422][155]LogShaderCompilers: Display: ================================================
+[2022.05.27-15.04.21:422][155]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.27-15.04.21:422][155]LogShaderCompilers: Display: Total job queries 78, among them cache hits 0 (0.00%)
+[2022.05.27-15.04.21:422][155]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 8 distinct outputs (80.00%)
+[2022.05.27-15.04.21:422][155]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.05.27-15.04.21:422][155]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.27-15.04.21:422][155]LogShaderCompilers: Display: Shaders Compiled: 78
+[2022.05.27-15.04.21:422][155]LogShaderCompilers: Display: Jobs assigned 40, completed 10 (25.00%)
+[2022.05.27-15.04.21:422][155]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.06 s
+[2022.05.27-15.04.21:422][155]LogShaderCompilers: Display: Job execution time: average 11.37 s, max 11.37 s
+[2022.05.27-15.04.21:422][155]LogShaderCompilers: Display: Job life time (pending + execution): average 11.43 s, max 11.43
+[2022.05.27-15.04.21:422][155]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.43 s
+[2022.05.27-15.04.21:423][155]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 10.00 jobs/batch
+[2022.05.27-15.04.21:423][155]LogShaderCompilers: Display: Average processing rate: 0.88 jobs/sec
+[2022.05.27-15.04.21:423][155]LogShaderCompilers: Display: Effective parallelization: 0.81 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2022.05.27-15.04.21:423][155]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.05.27-15.04.21:423][155]LogShaderCompilers: Display:       TMobileBasePassPSFNoLightMapPolicyINT32_MAXHDRLinear64 (compiled    1 times, average 1.60 sec, max 1.60 sec, min 1.60 sec)
+[2022.05.27-15.04.21:423][155]LogShaderCompilers: Display: TMobileBasePassPSFMobileDirectionalLightAndSHIndirectPolicyINT32_MAXHDRLinear64Skylight (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2022.05.27-15.04.21:423][155]LogShaderCompilers: Display:                TMobileBasePassVSFNoLightMapPolicyHDRLinear64 (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2022.05.27-15.04.21:423][155]LogShaderCompilers: Display: TMobileBasePassVSFMobileDirectionalLightCSMAndSHIndirectPolicyHDRLinear64 (compiled    1 times, average 0.99 sec, max 0.99 sec, min 0.99 sec)
+[2022.05.27-15.04.21:423][155]LogShaderCompilers: Display: TMobileBasePassPSFMobileDirectionalLightCSMAndSHIndirectPolicy0HDRLinear64 (compiled    1 times, average 0.85 sec, max 0.85 sec, min 0.85 sec)
+[2022.05.27-15.04.21:423][155]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.05.27-15.04.21:424][155]LogShaderCompilers: Display:       TMobileBasePassPSFNoLightMapPolicyINT32_MAXHDRLinear64 - 17.30% of total time (compiled    1 times, average 1.60 sec, max 1.60 sec, min 1.60 sec)
+[2022.05.27-15.04.21:424][155]LogShaderCompilers: Display: TMobileBasePassPSFMobileDirectionalLightAndSHIndirectPolicyINT32_MAXHDRLinear64Skylight - 11.04% of total time (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2022.05.27-15.04.21:424][155]LogShaderCompilers: Display:                TMobileBasePassVSFNoLightMapPolicyHDRLinear64 - 10.95% of total time (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2022.05.27-15.04.21:424][155]LogShaderCompilers: Display: TMobileBasePassVSFMobileDirectionalLightCSMAndSHIndirectPolicyHDRLinear64 - 10.68% of total time (compiled    1 times, average 0.99 sec, max 0.99 sec, min 0.99 sec)
+[2022.05.27-15.04.21:424][155]LogShaderCompilers: Display: TMobileBasePassPSFMobileDirectionalLightCSMAndSHIndirectPolicy0HDRLinear64 - 9.20% of total time (compiled    1 times, average 0.85 sec, max 0.85 sec, min 0.85 sec)
+[2022.05.27-15.04.21:424][155]LogShaderCompilers: Display: ================================================
+[2022.05.27-15.04.22:200][236]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.05.27-15.04.22:200][236]LogTurnkeySupport: Turnkey Device: Win64@LAPTOP-OQ1M63MF: (Name=LAPTOP-OQ1M63MF, Status=Valid, Installed=10.0.22000.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.05.27-15.04.22:531][274]LogTurnkeySupport: Display: Adding device menu item for LAPTOP-OQ1M63MF
+[2022.05.27-15.04.26:303][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.05.27-15.04.28:153][714]LogSlate: Window 'Save Content' being destroyed
+[2022.05.27-15.04.28:209][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/Player/BP_Player.uasset" SILENT=true
+[2022.05.27-15.04.28:293][714]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2022.05.27-15.04.28:295][714]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/BP_Player5A6B5F3948F6373E8285E9A899F8BE6D.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/Player/BP_Player.uasset'
+[2022.05.27-15.04.28:410][715]AssetCheck: New page: Asset Save: BP_Player
+[2022.05.27-15.04.28:410][715]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2022.05.27-15.04.33:082][191]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.05.27-15.04.33:137][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.05.27-15.05.27:203][256]LogWorld: Changing Feature Level (Enum) from 1 to 3
+[2022.05.27-15.05.27:271][256]LogWorld: Changing Feature Level (Enum) from 1 to 3
+[2022.05.27-15.05.27:349][256]LogDeviceProfileManager: Restoring Preview DP 
+[2022.05.27-15.05.27:349][256]LogDeviceProfileManager: Popping Device Profile CVar: [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2022.05.27-15.05.27:349][256]LogDeviceProfileManager: Popping Device Profile CVar: [[r.DynamicGlobalIlluminationMethod:1]]
+[2022.05.27-15.05.27:349][256]LogDeviceProfileManager: Popping Device Profile CVar: [[r.ReflectionMethod:1]]
+[2022.05.27-15.05.27:349][256]LogDeviceProfileManager: Popping Device Profile CVar: [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2022.05.27-15.05.27:349][256]LogDeviceProfileManager: Popping Device Profile CVar: [[r.Lumen.HardwareRayTracing.LightingMode:0]]
+[2022.05.27-15.05.27:349][256]LogDeviceProfileManager: Popping Device Profile CVar: [[r.Lumen.TraceMeshSDFs:1]]
+[2022.05.27-15.05.27:350][256]LogDeviceProfileManager: Popping Device Profile CVar: [[r.Shadow.Virtual.Enable:1]]
+[2022.05.27-15.05.27:350][256]LogDeviceProfileManager: Popping Device Profile CVar: [[r.RayTracing.Shadows:0]]
+[2022.05.27-15.05.27:350][256]LogDeviceProfileManager: Popping Device Profile CVar: [[r.RayTracing.Skylight:0]]
+[2022.05.27-15.05.27:350][256]LogDeviceProfileManager: Popping Device Profile CVar: [[r.SeparateTranslucency:0]]
+[2022.05.27-15.05.27:350][256]LogDeviceProfileManager: Popping Device Profile CVar: [[r.MSAACount:4]]
+[2022.05.27-15.05.27:350][256]LogDeviceProfileManager: Popping Device Profile CVar: [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2022.05.27-15.05.27:353][256]LogDeviceProfileManager: Popping Device Profile CVar: [[r.EarlyZPass:3]]
+[2022.05.27-15.05.27:353][256]LogDeviceProfileManager: Popping Device Profile CVar: [[vr.RoundRobinOcclusion:0]]
+[2022.05.27-15.05.27:353][256]LogDeviceProfileManager: Popping Device Profile CVar: [[r.VSync:0]]
+[2022.05.27-15.05.27:353][256]LogDeviceProfileManager: Popping Device Profile CVar: [[r.Forward.LightGridSizeZ:32]]
+[2022.05.27-15.05.27:353][256]LogDeviceProfileManager: Popping Device Profile CVar: [[r.Forward.MaxCulledLightsPerCell:32]]
+[2022.05.27-15.05.27:353][256]LogDeviceProfileManager: Popping Device Profile CVar: [[r.HairStrands.Simulation:1]]
+[2022.05.27-15.05.27:353][256]LogDeviceProfileManager: Popping Device Profile CVar: [[r.HairStrands.Strands:1]]
+[2022.05.27-15.05.27:353][256]LogDeviceProfileManager: Popping Device Profile CVar: [[r.HairStrands.Binding:1]]
+[2022.05.27-15.05.27:353][256]LogDeviceProfileManager: Popping Device Profile CVar: [[FX.AllowGPUSorting:1]]
+[2022.05.27-15.05.33:833][524]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2022.05.27-15.05.33:909][524]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2022.05.27-15.05.33:979][524]LogDeviceProfileManager: SetPreviewDeviceProfile preview to Android_Preview_OpenGL
+[2022.05.27-15.05.43:647][631]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.05.27-15.05.43:706][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.05.27-15.05.45:321][631]LogSlate: Window 'Save Content' being destroyed
+[2022.05.27-15.05.45:412][631]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/00_Maps/Main_Gameplay/5/FI/GJ7RE03W55C38ZKMHYUT8A
+[2022.05.27-15.05.45:414][631]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/GJ7RE03W55C38ZKMHYUT8AE4611D2F455B479604754CA9A0F6A67A.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/__ExternalActors__/00_Maps/Main_Gameplay/5/FI/GJ7RE03W55C38ZKMHYUT8A.uasset'
+[2022.05.27-15.05.45:520][632]AssetCheck: New page: Asset Save: BP_Player_C_UAID_08979892C676EC1301_1201038759
+[2022.05.27-15.05.45:520][632]LogContentValidation: Display: Validating BP_Player_C /Game/00_Maps/Main_Gameplay.Main_Gameplay:PersistentLevel.BP_Player_C_UAID_08979892C676EC1301_1201038759
+[2022.05.27-15.06.10:260][278]LogTurnkeySupport: Display: Adding device menu item for LAPTOP-OQ1M63MF
+[2022.05.27-15.06.12:367][489]LogWorldPartition: Display: GenerateStreaming started...
+[2022.05.27-15.06.12:367][489]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.05.27-15.06.12:367][489]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.05.27-15.06.12:367][489]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.05.27-15.06.12:367][489]LogWorldPartition: Display: GetPartitionedActors took 42 us
+[2022.05.27-15.06.12:377][489]LogMaterial: Display: Missing cached shadermap for M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0 in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: F093721C67CFA74438056B70FE6A426C1B848D01), compiling. 
+[2022.05.27-15.06.12:567][489]LogWorldPartition: Display: GenerateStreaming took 200 ms
+[2022.05.27-15.06.12:567][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.27-15.06.12:567][489]PIE: New page: PIE session: Main_Gameplay (28 мая 2022 г., 01:06:12)
+[2022.05.27-15.06.12:568][489]LogPlayLevel: Creating play world package: /Game/00_Maps/UEDPIE_0_Main_Gameplay
+[2022.05.27-15.06.12:577][489]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.05.27-15.06.12:578][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009906s)
+[2022.05.27-15.06.12:578][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/00_Maps/Main_Gameplay.Main_Gameplay to /Game/00_Maps/UEDPIE_0_Main_Gameplay.Main_Gameplay (0.010001s)
+[2022.05.27-15.06.12:578][489]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.27-15.06.12:578][489]LogAIModule: Creating AISystem for world Main_Gameplay
+[2022.05.27-15.06.12:584][489]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.05.27-15.06.12:584][489]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.05.27-15.06.12:588][489]LogWorldPartition: Display: WorldPartition initialize took 4 ms
+[2022.05.27-15.06.12:588][489]LogPlayLevel: PIE: World Init took: (0.010668s)
+[2022.05.27-15.06.12:640][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.05.27-15.06.12:641][489]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.05.27-15.06.12:641][489]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.27-15.06.12:641][489]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.27-15.06.12:641][489]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.27-15.06.12:641][489]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.27-15.06.12:641][489]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.27-15.06.12:641][489]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.27-15.06.12:641][489]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.27-15.06.12:641][489]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.27-15.06.12:642][489]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.27-15.06.12:642][489]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.27-15.06.12:642][489]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.27-15.06.12:646][489]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.27-15.06.12:682][489]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2022.05.27-15.06.12:682][489]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.27-15.06.12:682][489]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.27-15.06.12:682][489]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.27-15.06.12:683][489]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.05.27-15.06.12:683][489]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.05.27-15.06.12:685][489]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.05.27-15.06.12:686][489]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.05.27-15.06.12:686][489]LogInit: FAudioDevice initialized.
+[2022.05.27-15.06.12:686][489]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main_Gameplay'.
+[2022.05.27-15.06.12:753][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.27-15.06.12:754][489]LogLoad: Game class is 'GameModeBase'
+[2022.05.27-15.06.12:755][489]LogWorld: Bringing World /Game/00_Maps/UEDPIE_0_Main_Gameplay.Main_Gameplay up for play (max tick rate 0) at 2022.05.27-20.06.12
+[2022.05.27-15.06.12:756][489]LogWorld: Bringing up level for play took: 0.001213
+[2022.05.27-15.06.12:759][489]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.05.27-15.06.12:760][489]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=230.000 Y=0.000 Z=57.500
+[2022.05.27-15.06.12:763][489]PIE: Server logged in
+[2022.05.27-15.06.12:766][489]PIE: Play in editor total start time 0,404 seconds.
+[2022.05.27-15.06.12:769][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/9/7Q/SCQAIU4V5Q8JTPGI0T4VMZ.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.05.27-15.06.12:769][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/9/7Q/SCQAIU4V5Q8JTPGI0T4VMZ.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2022.05.27-15.06.12:769][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/9/7Q/SCQAIU4V5Q8JTPGI0T4VMZ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.05.27-15.06.12:769][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/9/NE/KSSO4TLUHNUIPB4RPKVQP1.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.06.12:769][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/A/8J/83X5NQKK9MCQ1NAY0QUIMW.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.05.27-15.06.12:769][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/A/8J/83X5NQKK9MCQ1NAY0QUIMW.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/A/HS/HCA515BYBCRTUP0UMGI1LM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/4/99/SFUCFC3ADNLO34F2SCX58N.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/4/RC/LEW18R0H65YD78FYVZCJLH.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/4/RC/LEW18R0H65YD78FYVZCJLH.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/4/RC/LEW18R0H65YD78FYVZCJLH.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/4/RC/LEW18R0H65YD78FYVZCJLH.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/4/RC/LEW18R0H65YD78FYVZCJLH.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/4/RC/LEW18R0H65YD78FYVZCJLH.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/C/QJ/9UJN4YSO4XDP0CXVD9GTEP.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/C/QJ/9UJN4YSO4XDP0CXVD9GTEP.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/C/QJ/9UJN4YSO4XDP0CXVD9GTEP.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/C/QJ/9UJN4YSO4XDP0CXVD9GTEP.StaticMesh_HLOD0_Instancing_13 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/C/QJ/9UJN4YSO4XDP0CXVD9GTEP.StaticMesh_HLOD0_Instancing_12 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/C/QJ/9UJN4YSO4XDP0CXVD9GTEP.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/C/QJ/9UJN4YSO4XDP0CXVD9GTEP.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/C/SO/A61BKP44Q9BU114JYRU6UC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/C/SO/A61BKP44Q9BU114JYRU6UC.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/B/SJ/0WNYTASWK0FWN3RPNMUUZA.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/B/FU/6OKMX9YDXH17BK8U2OH8Z3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/3/CL/W31GM7H4M7XV8E9I236GEX.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/3/CL/W31GM7H4M7XV8E9I236GEX.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/3/BH/OKR2YR84IN0S8F7SI5SWFH.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/3/BH/OKR2YR84IN0S8F7SI5SWFH.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/3/BH/OKR2YR84IN0S8F7SI5SWFH.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/3/BH/OKR2YR84IN0S8F7SI5SWFH.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/3/BH/OKR2YR84IN0S8F7SI5SWFH.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/0/OI/GUFBR8XZT3774V0W4JJOTK.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/0/OI/GUFBR8XZT3774V0W4JJOTK.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/0/LS/BH9LI1T6OD7TV6SJLMW6GZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/8/4N/VY15M640XDS0QDJUKBC5HM.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/7/10/YXCVLIGNSLM6PDDRY8W2UE.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.05.27-15.06.12:770][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/7/10/YXCVLIGNSLM6PDDRY8W2UE.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.05.27-15.06.12:771][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/7/10/YXCVLIGNSLM6PDDRY8W2UE.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.05.27-15.06.12:771][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/7/10/YXCVLIGNSLM6PDDRY8W2UE.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.05.27-15.06.12:771][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/7/10/YXCVLIGNSLM6PDDRY8W2UE.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.05.27-15.06.12:771][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/7/10/YXCVLIGNSLM6PDDRY8W2UE.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.05.27-15.06.12:771][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/2/KD/TE7EVI0T0PEOIF8SUXF468.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.05.27-15.06.12:771][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/2/KD/TE7EVI0T0PEOIF8SUXF468.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.06.12:771][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/1/W4/U0WWKKIWWO28WDFV8QBTPV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.05.27-15.06.12:771][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/6/BB/V0MD9EFI367MOFCHAHBH4J.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.05.27-15.06.12:771][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/6/BB/V0MD9EFI367MOFCHAHBH4J.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.06.12:771][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/6/VG/C4NM9MYZZ22M8X5ZA0MYHZ.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.06.12:771][489]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/00_Maps/Main_Gameplay/E/77/KZF05TV9RBQABGODMAOSYN.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.05.27-15.06.12:789][489]LogStaticMesh: Display: Waiting for static meshes to be ready 0/49 (/Game/__ExternalActors__/00_Maps/Main_Gameplay/9/7Q/SCQAIU4V5Q8JTPGI0T4VMZ) ...
+[2022.05.27-15.06.19:944][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.27-15.06.19:944][162]LogWorld: BeginTearingDown for /Game/00_Maps/UEDPIE_0_Main_Gameplay
+[2022.05.27-15.06.19:945][162]LogSlate: Window 'HypercasualRunner3D Preview [NetMode: Standalone]  (64-bit/ES31)' being destroyed
+[2022.05.27-15.06.19:952][162]LogWorld: UWorld::CleanupWorld for Main_Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.05.27-15.06.19:952][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.27-15.06.19:975][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.27-15.06.19:985][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.27-15.06.21:004][162]LogMeshUtilities: Finished distance field build in 7.9s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 39% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_9
+[2022.05.27-15.06.21:004][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.05.27-15.06.21:007][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.05.27-15.06.21:025][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.05.27-15.06.21:098][163]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.05.27-15.12.12:016][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/Animations/Idle/A_07_Idle.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.12:032][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/Animations/Idle/A_06_IdleOffensive.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.12:048][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/Animations/Idle/A_05_IdleStretch.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.12:066][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/Animations/Idle/A_04_IdleBoxing.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.12:082][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/Animations/Idle/A_03_IdleDwarf.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.12:099][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/Animations/Idle/A_02_IdleHappy.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.12:117][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/Animations/Idle/A_01_IdleSad.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.12:132][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/Animations/Idle/A_00_Idle.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.12:148][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/Animations/Move/00_Walk/A_01_Walk.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.12:164][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/Animations/Move/00_Walk/A_00_Walk.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.12:183][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/Animations/Move/01_Run/A_03_RunDrunk.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.12:199][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/Animations/Move/01_Run/A_02_RunFast.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.13:248][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/Animations/Move/01_Run/A_01_RunSlow.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.13:298][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/Animations/Move/01_Run/A_00_Run.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.13:316][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/Animations/Move/BS_CharacterMove.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.13:332][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/Animations/ABP_Character.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.13:348][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/Materials/MI_00_CharacterEyebrow.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.13:366][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/Materials/MI_00_CharacterSkin.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.13:382][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/Materials/MI_00_CharacterEye.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.13:399][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/Physics/PHYS_Base_Character.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.13:415][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/ECharacterMoveStates.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.13:433][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/BP_Base_Character.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.13:449][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/SKEL_Base_Character.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.14:383][257]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character/SK_Base_Character.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.52:598][722]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character\ECharacterMoveStates.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.52:614][722]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character\SK_Base_Character.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.52:631][722]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character\SKEL_Base_Character.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.12.52:648][722]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\MerryChaos 5.0\Content\01_Characters\00_Character\BP_Base_Character.uasset'. Unknown extension 'uasset'.
+[2022.05.27-15.13.41:150][847]LogAssetTools: Warning: Failed to import 'D:\Unreal\Projects\MerryChaos\NoInGameContent\3DModels\00_People\04_People\00_Character\00_Character.blend'. Unknown extension 'blend'.
+[2022.05.27-15.13.55:123][ 56]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Unreal\Projects\MerryChaos\NoInGameContent\3DModels\00_People\04_People\00_Character\00_Character\00_Character.fbx)
+[2022.05.27-15.13.55:180][ 56]LogFbx: Loading FBX Scene from D:\Unreal\Projects\MerryChaos\NoInGameContent\3DModels\00_People\04_People\00_Character\00_Character\00_Character.fbx
+[2022.05.27-15.13.55:209][ 56]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.27-15.14.00:717][ 56]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.27-15.14.16:502][ 56]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.05.27-15.14.16:594][ 56]LogFbx: Valid bind pose for Pose (Cube.004) - Body
+[2022.05.27-15.14.16:599][ 56]LogMaterial: Display: Material /Game/3DModels/Skin.Skin needed to have new flag set bUsedWithSkeletalMesh !
+[2022.05.27-15.14.16:603][ 56]LogMaterial: Display: Missing cached shadermap for Skin in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: FF79BF46AA3EB3DE6D2FE90C7118B50ACB582C8C), compiling. 
+[2022.05.27-15.14.16:648][ 56]LogMaterial: Display: Missing cached shadermap for Skin in PCD3D_SM5, Default, SM5 (DDC key hash: 41BE31226F003CB263E1B7FD754A6F3A2B9CA0C3), compiling. 
+[2022.05.27-15.14.16:784][ 56]LogMaterial: Display: Missing cached shadermap for Skin in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 4647CD697130CD0603149FA2D2359B100DD95187), compiling. 
+[2022.05.27-15.14.16:792][ 56]LogMaterial: Display: Missing cached shadermap for Skin in PCD3D_SM5, Default, SM5 (DDC key hash: 7FC1E69C66BF1241D1C96501CA453E1D9EF345C2), compiling. 
+[2022.05.27-15.14.16:796][ 56]LogMaterial: Display: Material /Game/3DModels/Eyebrow.Eyebrow needed to have new flag set bUsedWithSkeletalMesh !
+[2022.05.27-15.14.16:801][ 56]LogMaterial: Display: Missing cached shadermap for Eyebrow in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: FE49EC6A37AF1FC45010B894BF8F6A1589CC37BA), compiling. 
+[2022.05.27-15.14.16:860][ 56]LogMaterial: Display: Missing cached shadermap for Eyebrow in PCD3D_SM5, Default, SM5 (DDC key hash: 1D92C0DF5CE73F82D66AFE6D04B0C6C06D9EC733), compiling. 
+[2022.05.27-15.14.16:929][ 56]LogMaterial: Display: Missing cached shadermap for Eyebrow in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: F94706D0F52F16C8AC84BB4291A74B6A2C4461B1), compiling. 
+[2022.05.27-15.14.16:936][ 56]LogMaterial: Display: Missing cached shadermap for Eyebrow in PCD3D_SM5, Default, SM5 (DDC key hash: 99D39B809A874FEC84F72EF748E4D5B7C4DB2967), compiling. 
+[2022.05.27-15.14.16:947][ 56]LogMaterial: Display: Material /Game/3DModels/Eye.Eye needed to have new flag set bUsedWithSkeletalMesh !
+[2022.05.27-15.14.16:953][ 56]LogMaterial: Display: Missing cached shadermap for Eye in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: EE63C21B438164306ECC3D5104E99B2B4A4CFC4B), compiling. 
+[2022.05.27-15.14.17:022][ 56]LogMaterial: Display: Missing cached shadermap for Eye in PCD3D_SM5, Default, SM5 (DDC key hash: 3051F675C7D4E7E24E778BE2F4F931A68EF3480B), compiling. 
+[2022.05.27-15.14.17:090][ 56]LogMaterial: Display: Missing cached shadermap for Eye in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 96908F3514F6838B5F71DF57A9B9BE728BF6FF27), compiling. 
+[2022.05.27-15.14.17:098][ 56]LogMaterial: Display: Missing cached shadermap for Eye in PCD3D_SM5, Default, SM5 (DDC key hash: 277E8E2F87DE4596DBB97FA0089AEB4C23713094), compiling. 
+[2022.05.27-15.14.17:102][ 56]LogFbx: Triangulating skeletal mesh Body
+[2022.05.27-15.14.17:181][ 56]LogFbx: Warning: Bones digested - 23  Depth of hierarchy - 9
+[2022.05.27-15.14.17:281][ 56]LogSkeletalMesh: Section 0: Material=0, 1784 triangles
+[2022.05.27-15.14.17:281][ 56]LogSkeletalMesh: Section 1: Material=1, 160 triangles
+[2022.05.27-15.14.17:281][ 56]LogSkeletalMesh: Section 2: Material=2, 160 triangles
+[2022.05.27-15.14.17:305][ 56]LogSkeletalMesh: Building Skeletal Mesh 00_Character...
+[2022.05.27-15.14.17:305][ 56]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (00_Character) ...
+[2022.05.27-15.14.17:360][ 56]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/3DModels/00_Character.00_Character
+[2022.05.27-15.14.17:360][ 56]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.27-15.14.17:374][ 56]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2022.05.27-15.14.17:374][ 56]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.27-15.14.17:374][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.27-15.14.17:389][ 56]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.27-15.14.17:407][ 56]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.05.27-15.14.17:410][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.27-15.14.17:430][ 56]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.05.27-15.14.17:430][ 56]FBXImport: Warning: The following bones are missing from the bind pose:
+Head_end  
+Fist.L_end  
+Fist.R_end  
+LowerLeg.L_end  
+LowerLeg.R_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2022.05.27-15.14.17:430][ 56]FBXImport: Warning: Mesh 'Body' has no UV set. Creating a default set. 
+[2022.05.27-15.14.23:662][616]LogSlate: Window 'Message Log' being destroyed
+[2022.05.27-15.14.23:668][616]LogSlate: Window 'Message Log' being destroyed
+[2022.05.27-15.14.24:964][757]LogShaderCompilers: Display: ================================================
+[2022.05.27-15.14.24:964][757]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.27-15.14.24:964][757]LogShaderCompilers: Display: Total job queries 348, among them cache hits 40 (11.49%)
+[2022.05.27-15.14.24:964][757]LogShaderCompilers: Display: Tracking 83 distinct input hashes that result in 49 distinct outputs (59.04%)
+[2022.05.27-15.14.24:964][757]LogShaderCompilers: Display: RAM used: 0.16 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: Shaders Compiled: 270
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: Jobs assigned 110, completed 83 (75.45%)
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: Average time worker was idle: 291.36 s
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.07 s
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: Job execution time: average 11.81 s, max 13.24 s
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: Job life time (pending + execution): average 11.87 s, max 13.31
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 33.47 s
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 9.17 jobs/batch
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: Average processing rate: 2.48 jobs/sec
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: Effective parallelization: 2.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: TMobileBasePassPSFMobileMovableDirectionalLightCSMWithLightmapPolicyINT32_MAXHDRLinear64Skylight (compiled    1 times, average 2.15 sec, max 2.15 sec, min 2.15 sec)
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: TMobileBasePassPSFMobileMovableDirectionalLightCSMWithLightmapPolicyINT32_MAXHDRLinear64 (compiled    1 times, average 2.07 sec, max 2.07 sec, min 2.07 sec)
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: TMobileBasePassPSFMobileDirectionalLightCSMAndSHIndirectPolicyINT32_MAXHDRLinear64Skylight (compiled    4 times, average 1.49 sec, max 2.12 sec, min 0.59 sec)
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: TMobileBasePassPSFMobileDistanceFieldShadowsLightMapAndCSMLightingPolicy0HDRLinear64Skylight (compiled    1 times, average 1.47 sec, max 1.47 sec, min 1.47 sec)
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: TMobileBasePassPSFMobileDirectionalLightCSMAndLightMapPolicy0HDRLinear64Skylight (compiled    1 times, average 1.47 sec, max 1.47 sec, min 1.47 sec)
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: TMobileBasePassPSFMobileDirectionalLightCSMAndSHIndirectPolicyINT32_MAXHDRLinear64Skylight - 6.75% of total time (compiled    4 times, average 1.49 sec, max 2.12 sec, min 0.59 sec)
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: TMobileBasePassPSFMobileDirectionalLightCSMAndSHIndirectPolicyINT32_MAXHDRLinear64 - 6.38% of total time (compiled    4 times, average 1.41 sec, max 2.16 sec, min 1.04 sec)
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display:                TMobileBasePassVSFNoLightMapPolicyHDRLinear64 - 5.67% of total time (compiled    4 times, average 1.25 sec, max 2.18 sec, min 0.77 sec)
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: TMobileBasePassPSFNoLightMapPolicyINT32_MAXHDRLinear64Skylight - 5.36% of total time (compiled    4 times, average 1.18 sec, max 1.46 sec, min 0.89 sec)
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: TMobileBasePassPSFMobileDirectionalLightCSMAndSHIndirectPolicy0HDRLinear64Skylight - 4.99% of total time (compiled    4 times, average 1.10 sec, max 1.61 sec, min 0.84 sec)
+[2022.05.27-15.14.24:965][757]LogShaderCompilers: Display: ================================================
+[2022.05.27-15.14.32:745][536]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.05.27-15.14.32:751][536]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/00_Maps/Main_Gameplay' took 0.058
+[2022.05.27-15.14.32:763][536]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DModels/00_Character] ([1] browsable assets)...
+[2022.05.27-15.14.32:782][536]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/3DModels/00_Character.00_Character]
+[2022.05.27-15.14.32:782][536]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/00_Character]
+[2022.05.27-15.14.32:914][536]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3DModels/00_Character_Auto1
+[2022.05.27-15.14.32:914][536]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/00_Character_Auto1B6926C1045C68EE9A8FEE393807D3E64.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/Autosaves/Game/3DModels/00_Character_Auto1.uasset'
+[2022.05.27-15.14.32:916][536]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DModels/00_Character_Skeleton] ([1] browsable assets)...
+[2022.05.27-15.14.32:925][536]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/3DModels/00_Character_Skeleton.00_Character_Skeleton]
+[2022.05.27-15.14.32:925][536]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/00_Character_Skeleton]
+[2022.05.27-15.14.32:929][536]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3DModels/00_Character_Skeleton_Auto1
+[2022.05.27-15.14.32:929][536]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/00_Character_Skeleton_Auto10938983E4E86B6916040BAA0018017ED.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/Autosaves/Game/3DModels/00_Character_Skeleton_Auto1.uasset'
+[2022.05.27-15.14.32:932][536]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DModels/00_Character_PhysicsAsset] ([1] browsable assets)...
+[2022.05.27-15.14.32:939][536]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/3DModels/00_Character_PhysicsAsset.00_Character_PhysicsAsset]
+[2022.05.27-15.14.32:939][536]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/00_Character_PhysicsAsset]
+[2022.05.27-15.14.33:025][536]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3DModels/00_Character_PhysicsAsset_Auto1
+[2022.05.27-15.14.33:025][536]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/00_Character_PhysicsAsset_Auto15E21EFC04E441FF515F2CEB7D2D9CE76.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/Autosaves/Game/3DModels/00_Character_PhysicsAsset_Auto1.uasset'
+[2022.05.27-15.14.33:027][536]LogFileHelpers: Auto-saving content packages took 0.276
+[2022.05.27-15.14.39:592][273]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.27-15.14.39:613][273]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.27-15.14.39:623][274]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.05.27-15.14.47:108][171]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2022.05.27-15.14.47:135][171]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.27-15.14.57:578][351]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.27-15.14.57:597][351]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.27-15.14.57:604][352]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.05.27-15.14.59:162][535]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2022.05.27-15.14.59:174][535]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.27-15.15.06:104][329]LogContentBrowser: Attempting asset rename: 00_Character -> 00_Character
+[2022.05.27-15.15.11:975][985]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.27-15.15.11:997][985]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.27-15.15.12:004][986]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.05.27-15.15.42:990][700]LogContentBrowser: Attempting asset rename: NewFolder -> PlayerCharacter
+[2022.05.27-15.15.43:009][700]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.27-15.15.50:980][638]LogContentBrowser: Attempting asset rename: PlayerCharacter -> BaseCharacter
+[2022.05.27-15.16.07:535][593]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2022.05.27-15.16.07:536][593]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2022.05.27-15.16.41:344][300]LogContentBrowser: Attempting asset rename: 00_Character -> SK_Character
+[2022.05.27-15.16.41:495][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/SK_Character" FILE="../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/SK_Character.uasset" SILENT=true
+[2022.05.27-15.16.41:639][300]LogSavePackage: Moving output files for package: /Game/3DModels/SK_Character
+[2022.05.27-15.16.41:639][300]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/SK_CharacterF4E0A06E4C9810305C47BBA81D3FAA20.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/SK_Character.uasset'
+[2022.05.27-15.16.41:724][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.05.27-15.16.41:766][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.05.27-15.16.41:809][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.05.27-15.16.41:816][300]AssetCheck: New page: Asset Save: SK_Character
+[2022.05.27-15.16.41:816][300]LogContentValidation: Display: Validating SkeletalMesh /Game/3DModels/SK_Character.SK_Character
+[2022.05.27-15.17.32:748][172]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.27-15.17.32:767][172]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.27-15.17.32:782][174]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.05.27-15.17.37:830][780]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2022.05.27-15.17.37:841][780]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.27-15.17.46:030][715]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.27-15.17.46:050][715]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.27-15.17.46:056][716]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.05.27-15.17.50:521][251]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2022.05.27-15.17.50:533][251]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.27-15.18.33:381][514]LogContentBrowser: Attempting asset rename: 00_Character_PhysicsAsset -> PHYS_Base_Character
+[2022.05.27-15.18.33:459][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/SK_Character" FILE="../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/SK_Character.uasset" SILENT=true
+[2022.05.27-15.18.33:572][514]LogSavePackage: Moving output files for package: /Game/3DModels/SK_Character
+[2022.05.27-15.18.33:574][514]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/SK_CharacterCD34E54E4CB044C6F7FC05879AB4760A.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/SK_Character.uasset'
+[2022.05.27-15.18.33:578][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/PHYS_Base_Character" FILE="../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/PHYS_Base_Character.uasset" SILENT=true
+[2022.05.27-15.18.33:651][514]LogSavePackage: Moving output files for package: /Game/3DModels/PHYS_Base_Character
+[2022.05.27-15.18.33:651][514]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/PHYS_Base_CharacterD0EC88504A68810524538A9C9C74F08B.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/PHYS_Base_Character.uasset'
+[2022.05.27-15.18.33:708][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.05.27-15.18.33:743][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.05.27-15.18.33:777][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.05.27-15.18.33:783][514]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.27-15.18.33:783][514]LogContentValidation: Display: Validating PhysicsAsset /Game/3DModels/PHYS_Base_Character.PHYS_Base_Character
+[2022.05.27-15.18.33:783][514]LogContentValidation: Display: Validating SkeletalMesh /Game/3DModels/SK_Character.SK_Character
+[2022.05.27-15.18.41:744][453]LogContentBrowser: Attempting asset rename: SK_Character -> SK_Base_Character
+[2022.05.27-15.18.41:792][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/PHYS_Base_Character" FILE="../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/PHYS_Base_Character.uasset" SILENT=true
+[2022.05.27-15.18.41:876][453]LogSavePackage: Moving output files for package: /Game/3DModels/PHYS_Base_Character
+[2022.05.27-15.18.41:878][453]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/PHYS_Base_Character8F8E0AD04B71C2A2F4EBE8855B11EB90.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/PHYS_Base_Character.uasset'
+[2022.05.27-15.18.41:883][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/SK_Base_Character" FILE="../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/SK_Base_Character.uasset" SILENT=true
+[2022.05.27-15.18.41:989][453]LogSavePackage: Moving output files for package: /Game/3DModels/SK_Base_Character
+[2022.05.27-15.18.41:989][453]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/SK_Base_Character905E810445C1627FB6408BA10FAF00B1.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/SK_Base_Character.uasset'
+[2022.05.27-15.18.42:050][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.05.27-15.18.42:085][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.05.27-15.18.42:119][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.05.27-15.18.42:130][453]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.27-15.18.42:130][453]LogContentValidation: Display: Validating PhysicsAsset /Game/3DModels/PHYS_Base_Character.PHYS_Base_Character
+[2022.05.27-15.18.42:130][453]LogContentValidation: Display: Validating SkeletalMesh /Game/3DModels/SK_Base_Character.SK_Base_Character
+[2022.05.27-15.19.06:794][364]LogContentBrowser: Attempting asset rename: 00_Character_Skeleton -> SKEL_Base_Character
+[2022.05.27-15.19.06:861][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/SK_Base_Character" FILE="../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/SK_Base_Character.uasset" SILENT=true
+[2022.05.27-15.19.06:980][364]LogSavePackage: Moving output files for package: /Game/3DModels/SK_Base_Character
+[2022.05.27-15.19.06:983][364]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/SK_Base_Character574F0F8D4703E6AE275994AFD34FFBC5.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/SK_Base_Character.uasset'
+[2022.05.27-15.19.06:987][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/SKEL_Base_Character" FILE="../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/SKEL_Base_Character.uasset" SILENT=true
+[2022.05.27-15.19.06:990][364]LogSavePackage: Moving output files for package: /Game/3DModels/SKEL_Base_Character
+[2022.05.27-15.19.06:990][364]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/SKEL_Base_Character9A6B732C484C320A656D8AA939148AC5.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/SKEL_Base_Character.uasset'
+[2022.05.27-15.19.07:047][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.05.27-15.19.07:081][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.05.27-15.19.07:114][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.05.27-15.19.07:120][364]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.27-15.19.07:120][364]LogContentValidation: Display: Validating Skeleton /Game/3DModels/SKEL_Base_Character.SKEL_Base_Character
+[2022.05.27-15.19.07:120][364]LogContentValidation: Display: Validating SkeletalMesh /Game/3DModels/SK_Base_Character.SK_Base_Character
+[2022.05.27-15.19.17:308][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.05.27-15.19.20:997][430]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.27-15.19.21:101][430]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/3DModels/Eye.Eye
+	Asset Type: Material
+	Asset Name: /Game/3DModels/Eyebrow.Eyebrow
+	Asset Type: Material
+	Asset Name: /Game/3DModels/Skin.Skin
+	Asset Type: Material
+[2022.05.27-15.19.21:509][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.05.27-15.19.37:670][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/SK_Base_Character" FILE="../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/SK_Base_Character.uasset" SILENT=true
+[2022.05.27-15.19.37:788][122]LogSavePackage: Moving output files for package: /Game/3DModels/SK_Base_Character
+[2022.05.27-15.19.37:790][122]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/SK_Base_Character7236C4004972103E5A44DCBD061CC704.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/SK_Base_Character.uasset'
+[2022.05.27-15.19.37:798][122]LogSavePackage: Moving output files for package: /Game/3DModels/BaseCharacter/Animations/SKEL_Base_Character
+[2022.05.27-15.19.37:798][122]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/SKEL_Base_Character606630524FB1D320D465F6AB626C815E.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/BaseCharacter/Animations/SKEL_Base_Character.uasset'
+[2022.05.27-15.19.37:853][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.05.27-15.19.37:887][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.05.27-15.19.37:920][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.05.27-15.19.37:940][122]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.27-15.19.37:940][122]LogContentValidation: Display: Validating Skeleton /Game/3DModels/BaseCharacter/Animations/SKEL_Base_Character.SKEL_Base_Character
+[2022.05.27-15.19.37:940][122]LogContentValidation: Display: Validating SkeletalMesh /Game/3DModels/SK_Base_Character.SK_Base_Character
+[2022.05.27-15.19.42:749][635]LogSavePackage: Moving output files for package: /Game/3DModels/BaseCharacter/Animations/SKEL_Base_Character
+[2022.05.27-15.19.42:751][635]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/SKEL_Base_CharacterD2C8A9334DD2D87277BAFAA5BD9B3B5C.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/BaseCharacter/Animations/SKEL_Base_Character.uasset'
+[2022.05.27-15.19.42:826][635]LogSavePackage: Moving output files for package: /Game/3DModels/BaseCharacter/PHYS_Base_Character
+[2022.05.27-15.19.42:826][635]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/PHYS_Base_Character81B9DF3D41EAAE72DB856085C85BE312.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/BaseCharacter/PHYS_Base_Character.uasset'
+[2022.05.27-15.19.42:958][635]LogSavePackage: Moving output files for package: /Game/3DModels/BaseCharacter/SK_Base_Character
+[2022.05.27-15.19.42:958][635]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/SK_Base_Character0452ED6D4D0502773CEDD7B355577EF1.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/BaseCharacter/SK_Base_Character.uasset'
+[2022.05.27-15.19.43:024][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.05.27-15.19.43:060][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.05.27-15.19.43:094][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.05.27-15.19.43:116][635]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.27-15.19.43:116][635]LogContentValidation: Display: Validating PhysicsAsset /Game/3DModels/BaseCharacter/PHYS_Base_Character.PHYS_Base_Character
+[2022.05.27-15.19.43:116][635]LogContentValidation: Display: Validating Skeleton /Game/3DModels/BaseCharacter/Animations/SKEL_Base_Character.SKEL_Base_Character
+[2022.05.27-15.19.43:116][635]LogContentValidation: Display: Validating SkeletalMesh /Game/3DModels/BaseCharacter/SK_Base_Character.SK_Base_Character
+[2022.05.27-15.19.53:371][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.05.27-15.20.01:661][799]LogSavePackage: Moving output files for package: /Game/3DModels/Base_Character/PHYS_Base_Character
+[2022.05.27-15.20.01:661][799]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/PHYS_Base_CharacterFDAE2DD94FDDBDE906B8FEA22B1BFC17.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/Base_Character/PHYS_Base_Character.uasset'
+[2022.05.27-15.20.01:669][799]LogSavePackage: Moving output files for package: /Game/3DModels/Base_Character/Animations/SKEL_Base_Character
+[2022.05.27-15.20.01:669][799]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/SKEL_Base_Character69492B99419B7B9A2EE67D9740C43592.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/Base_Character/Animations/SKEL_Base_Character.uasset'
+[2022.05.27-15.20.01:791][799]LogSavePackage: Moving output files for package: /Game/3DModels/Base_Character/SK_Base_Character
+[2022.05.27-15.20.01:791][799]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/SK_Base_Character3146223442671B822BE8E98E2012D284.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/Base_Character/SK_Base_Character.uasset'
+[2022.05.27-15.20.01:870][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.05.27-15.20.01:904][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.05.27-15.20.01:936][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.05.27-15.20.01:972][799]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.27-15.20.01:972][799]LogContentValidation: Display: Validating PhysicsAsset /Game/3DModels/Base_Character/PHYS_Base_Character.PHYS_Base_Character
+[2022.05.27-15.20.01:972][799]LogContentValidation: Display: Validating Skeleton /Game/3DModels/Base_Character/Animations/SKEL_Base_Character.SKEL_Base_Character
+[2022.05.27-15.20.01:972][799]LogContentValidation: Display: Validating SkeletalMesh /Game/3DModels/Base_Character/SK_Base_Character.SK_Base_Character
+[2022.05.27-15.20.15:235][303]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.27-15.20.15:253][303]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.27-15.20.15:260][304]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.05.27-15.20.19:452][803]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2022.05.27-15.20.19:478][803]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.27-15.20.48:215][266]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.27-15.20.48:220][266]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.27-15.20.48:228][267]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.05.27-15.21.07:020][519]LogContentBrowser: Attempting asset rename: NewFolder -> Physical
+[2022.05.27-15.21.07:046][519]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.27-15.21.41:236][377]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/3DModels/Base_Character/SK_Base_Character.SK_Base_Character
+[2022.05.27-15.21.41:299][377]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.27-15.21.41:373][377]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2022.05.27-15.21.41:553][377]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.27-15.21.41:746][377]PIE: Warning: Constraint in '/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' attempting to create a joint between objects that are both static.  No joint created.
+[2022.05.27-15.21.41:746][377]PIE: Warning: Constraint in '/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' attempting to create a joint between objects that are both static.  No joint created.
+[2022.05.27-15.21.41:746][377]PIE: Warning: Constraint in '/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' attempting to create a joint between objects that are both static.  No joint created.
+[2022.05.27-15.21.41:747][377]PIE: Warning: Constraint in '/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' attempting to create a joint between objects that are both static.  No joint created.
+[2022.05.27-15.21.47:731][938]LogSlate: Window 'SK_Base_Character' being destroyed
+[2022.05.27-15.21.58:289][118]LogSavePackage: Moving output files for package: /Game/3DModels/Base_Character/PHYS_Base_Character
+[2022.05.27-15.21.58:291][118]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/PHYS_Base_Character1794956F492E9060D1F86895C5B7553C.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/Base_Character/PHYS_Base_Character.uasset'
+[2022.05.27-15.21.58:299][118]LogSavePackage: Moving output files for package: /Game/3DModels/Base_Character/Animations/SKEL_Base_Character
+[2022.05.27-15.21.58:301][118]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/SKEL_Base_Character7DEB5DE24AB2B4DF9E89818941FEAD2D.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/Base_Character/Animations/SKEL_Base_Character.uasset'
+[2022.05.27-15.21.58:418][118]LogSavePackage: Moving output files for package: /Game/3DModels/Base_Character/Animations/SK_Base_Character
+[2022.05.27-15.21.58:418][118]LogSavePackage: Moving '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Saved/SK_Base_CharacterEBCC996D48D1B8BB03202EA451EF0A51.tmp' to '../../../../Projects/HypercasualRunner3D/HypercasualRunner3D/Content/3DModels/Base_Character/Animations/SK_Base_Character.uasset'
+[2022.05.27-15.21.58:517][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.05.27-15.21.58:580][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.05.27-15.21.58:620][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.05.27-15.21.58:641][118]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.27-15.21.58:641][118]LogContentValidation: Display: Validating PhysicsAsset /Game/3DModels/Base_Character/PHYS_Base_Character.PHYS_Base_Character
+[2022.05.27-15.21.58:641][118]LogContentValidation: Display: Validating Skeleton /Game/3DModels/Base_Character/Animations/SKEL_Base_Character.SKEL_Base_Character
+[2022.05.27-15.21.58:641][118]LogContentValidation: Display: Validating SkeletalMesh /Game/3DModels/Base_Character/Animations/SK_Base_Character.SK_Base_Character
+[2022.05.27-15.22.02:402][537]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/3DModels/Base_Character/Animations/SKEL_Base_Character.SKEL_Base_Character
+[2022.05.27-15.22.02:403][537]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.27-15.22.02:421][537]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2022.05.27-15.22.02:498][537]PIE: Warning: Constraint in '/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' attempting to create a joint between objects that are both static.  No joint created.
+[2022.05.27-15.22.02:498][537]PIE: Warning: Constraint in '/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' attempting to create a joint between objects that are both static.  No joint created.
+[2022.05.27-15.22.02:498][537]PIE: Warning: Constraint in '/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' attempting to create a joint between objects that are both static.  No joint created.
+[2022.05.27-15.22.02:498][537]PIE: Warning: Constraint in '/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' attempting to create a joint between objects that are both static.  No joint created.
